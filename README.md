@@ -5,23 +5,23 @@
   </div>
   
   <!-- Presentation -->
-  <p>
-    Hi 👋, I'm Nícolas! A student passionate about web development , I'm from Brazil and I live in Guarulhos.
-  
-    - 🌱 I'm currently studying HTML, CSS and JavaScript
-  
-    - 🔭 I am looking for my first job opportunity. My dream is to one day work with about web development .
-  </p>
+ <p>
+   Hi 👋, I'm Nícolas! A student passionate about web development , I'm from Brazil.
+
+  - 🌱  I'm currently studying HTML, CSS and JavaScript.
+
+  - 🔭  I am looking for my first job opportunity. My dream is to one day work with about web development.
+</p>
   
   <!-- Dropdown -->
-  <details>
-    <summary>👨‍💻 More about me</summary>
-  
-    - 💬 I am 16 years old and currently live in Brazil. I'm not fluent in English and I have experience in HTML, CSS and JavaScript, I live in Guarulho - SP, I have two brothers and my biggest dream is to be a great Programmer and I want to see my family happy.
-  
-    - ⚡ 
-    I like reading, whether it's a good book, manga or comic book, as well as watching movies and playing games!
-  </details>
+ <details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 16 years old and currently live in Brazil. I'm not fluent in English and I have experience in HTML, CSS and JavaScript, I live in Guarulho - SP, I have two brothers and my biggest dream is to be a great Programmer and I want to see my family happy.
+
+
+  - ⚡I like reading, whether it's a good book, manga or comic book, as well as watching movies, anime and drawing, and I also like playing video games!
+</details>
   
   <!-- Links -->
   
