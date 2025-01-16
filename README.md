@@ -33,9 +33,8 @@
   
   <!-- GIF -->
   <p align="left">
-    <img align="center" src="https://github.com/user-attachments/assets/8a3a8252-060c-4f9e-9005-312ab6029d86" alt="Imagem">
+    <img align="center" src="https://github.com/user-attachments/assets/d511f353-1bc3-4270-b9d8-45dc200a96f4" alt="Imagem" width="300px">
   </p>
-  
   ## 🔥 Skills
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
