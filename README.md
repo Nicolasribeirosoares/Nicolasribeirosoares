@@ -33,7 +33,7 @@
   
   <!-- GIF -->
   <p align="left">
-    <img align="center" src="https://github.com/user-attachments/assets/104a0f86-9334-40af-96c5-424d159be0b8" alt="Imagem" width="300px">
+    <img align="center" src="https://github.com/user-attachments/assets/14836c09-d356-4df8-8375-a55a7fd40081" alt="Imagem" width="300px">
   </p>
   ## 🔥 Skills
   <div style="flex-basis: 48%;">
